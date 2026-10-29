@@ -1,0 +1,6 @@
+{
+  "name": "Windows Auto Shutdown Timer",
+  "description": "Professional Windows desktop application for automated PC shutdown, restart, and sleep timer with accurate countdown logic and secure Electron IPC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
